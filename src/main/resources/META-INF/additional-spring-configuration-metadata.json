@@ -1,0 +1,14 @@
+{
+  "properties": [
+    {
+      "name": "api.JWTSecret",
+      "type": "java.lang.String",
+      "description": "Description for api.JWTSecret."
+    },
+    {
+      "name": "api.JWTExpirationMs",
+      "type": "java.lang.String",
+      "description": "Description for api.JWTExpirationMs."
+    }
+  ]
+}

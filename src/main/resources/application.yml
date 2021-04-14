@@ -1,0 +1,11 @@
+spring:
+  data:
+    mongodb:
+      database: spring-security
+      host: localhost
+      port: 27017
+      auto-index-creation: true
+
+api:
+  JWTSecret: qrD6h8K6S9503Q06Y6Rfk21TErImPYqa
+  JWTExpirationMs: 86400000
